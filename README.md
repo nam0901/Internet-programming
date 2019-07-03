@@ -1,4 +1,4 @@
 # Internet-programming CSCI 4131
-Homework 1 - 8
+Projects for Full Stack Engineering
 Javascript, HTML, jQuerry
 Node JS, Express, MySQL
